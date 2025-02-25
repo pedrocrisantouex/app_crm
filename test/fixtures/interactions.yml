@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  interaction_date: 2025-02-25
+  type: 1
+  description: MyText
+
+two:
+  customer: two
+  interaction_date: 2025-02-25
+  type: 1
+  description: MyText
